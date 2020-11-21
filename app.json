@@ -1,0 +1,12 @@
+{
+  "name": "netflixstorewithredux",
+  "displayName": "netflixstorewithredux",
+  "expo": {
+    "name": "netflixstorewithredux",
+    "slug": "netflixstorewithredux",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
